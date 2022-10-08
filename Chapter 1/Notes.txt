@@ -1,0 +1,5 @@
+1. index.html is the starting point of Webpage
+2. Press "!" and Enter for the HTML template
+3.Every opened tag must be closed.
+4. lorem<number>(Enter): Generate dummy text of <number> words
+5. Html is not case sensitive but it is recommended to use tags in lower case
